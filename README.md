@@ -1,2 +1,2 @@
 # hello-world
-Just getting familiar with GitHub
+Hello I am Aditya, Welcome to my Github Page.
